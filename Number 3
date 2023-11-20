@@ -1,0 +1,4 @@
+sum=0
+for b in range(100, 501):
+    sum=sum+b
+print("Сума всіх цілих чисел від 100 до 500:", sum)
