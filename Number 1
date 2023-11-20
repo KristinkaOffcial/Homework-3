@@ -1,0 +1,10 @@
+tetyana_vik = 10
+mitya_vik = 12
+sered_vik = (tetyana_vik + mitya_vik) / 2
+tetyana_vik_rizn = tetyana_vik - sered_vik
+mitya_vik_rizn = mitya_vik - sered_vik
+print("Середній вік:", sered_vik)
+print("Вік Тетянки:", tetyana_vik)
+print("Вік Міті:", mitya_vik)
+print("Різниця віку між Тетянкою та середнім значенням:", tetyana_vik_rizn)
+print("Різниця віку між Мітою та середнім значенням:", mitya_vik_rizn)
