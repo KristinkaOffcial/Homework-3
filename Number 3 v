@@ -1,0 +1,5 @@
+b=int(input("Введіть число B"))
+sum=0
+for c in range(-10, b+1):
+    sum=sum+c
+print("Сума всіх цілих чисел від -10 до b:", sum)
