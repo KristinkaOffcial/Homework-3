@@ -1,0 +1,5 @@
+a=int(input("Введіть число А"))
+sum=0
+for b in range(a, 501):
+    sum=sum+b
+print("Сума всіх цілих чисел від А до 500:", sum)
